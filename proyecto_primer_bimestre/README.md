@@ -6,4 +6,4 @@ Enlace Video: https://web.microsoftstream.com/video/51b9eee5-6173-4b7b-8bbc-59f5
 
 Diagrama de la base de datos:
 
-![Diagrama de la BD](/bd.png "BD Diagrama").
+![Diagrama de la BD](./bd.png "BD Diagrama").
