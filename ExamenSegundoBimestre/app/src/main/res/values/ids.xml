@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_save_general" type="id" />
+    <item name="button_cancel_general" type="id" />
+    <item name="textView3" type="id" />
+    <item name="edit_text_birth_date_general" type="id" />
+    <item name="edit_text_medals_general" type="id" />
+    <item name="textView" type="id" />
+    <item name="switch_active_general" type="id" />
+    <item name="textView4" type="id" />
+    <item name="edit_text_year_experience_general" type="id" />
+    <item name="textView5" type="id" />
+    <item name="edit_text_salary_general" type="id" />
+    <item name="button_save_soldier" type="id" />
+    <item name="button_cancel_soldier" type="id" />
+    <item name="edit_text_name_soldier" type="id" />
+    <item name="edit_text_birth_date_soldier" type="id" />
+    <item name="switch_active_soldier" type="id" />
+    <item name="edit_text_year_experience_soldier" type="id" />
+    <item name="edit_text_salary_soldier" type="id" />
+    <item name="chip_group_main_weapon" type="id" />
+    <item name="sniper_opt" type="id" />
+    <item name="rifle_opt" type="id" />
+    <item name="machine_gun_opt" type="id" />
+</resources>

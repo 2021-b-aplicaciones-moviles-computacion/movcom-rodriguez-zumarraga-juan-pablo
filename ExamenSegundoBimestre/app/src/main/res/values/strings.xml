@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ExamenSegundoBimestre</string>
+    <string-array name="app_info">
+        <item>Examen Segundo Bimestre - Aplicaciones Moviles</item>
+        <item>Juan Pablo Rodriguez</item>
+        <item>CRUD Android with Firebase</item>
+    </string-array>
+    <string name="father_class">Generals</string>
+    <string name="new_button">Create New</string>
+    <string name="new_general">New General</string>
+    <string name="save_option">Save</string>
+    <string name="cancel_option">Cancel</string>
+    <string name="name_attr">Name</string>
+    <string name="birth_date_attr">Birth Date</string>
+    <string name="medals_attr">Medals</string>
+    <string name="active_attr">Active</string>
+    <string name="year_experience_attr">Years of Experience</string>
+    <string name="salary_attr">Salary</string>
+    <string name="new_soldier">New Soldier</string>
+    <string name="main_weapon_attr">Main Weapon</string>
+    <string name="sniper_opt">Sniper</string>
+    <string name="rifle_opt">Rifle</string>
+    <string name="machine_gun_opt">Machine Gun</string>
+    <string name="return_button">Return</string>
+    <string name="edit_item">Edit</string>
+    <string name="delete_item">Delete</string>
+    <string name="soldiers_item">Soldiers</string>
+    <string name="confirm_delete">Are you sure you want to delete this item?</string>
+</resources>
